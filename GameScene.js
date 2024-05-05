@@ -28,7 +28,7 @@ class GameScene extends Phaser.Scene {
               this.tweens.add(
           {targets: currentCircle,
            paused: false,
-           completeDelay: 3000,
+           completeDelay: 4000,
            onComplete: function() {
             currentCircle.fillAlpha = 1;
             gameState.textAlert.setText('');
