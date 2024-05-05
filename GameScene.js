@@ -25,8 +25,6 @@ class GameScene extends Phaser.Scene {
   
         // Allows for the circle to be clicked
         currentCircle.setInteractive();
-  
-        // Add the code for tweens below:
               this.tweens.add(
           {targets: currentCircle,
            paused: false,
