@@ -17,4 +17,5 @@ The goal is to then click on the circles in the correct order from smallest to l
 
 ## Setup
 - download or clone the repository
-- open it with Live Server
+- open it with Live Server, or:
+- open live demo on the link above
